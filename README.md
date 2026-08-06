@@ -207,7 +207,13 @@ This project is licensed under the MIT License.
 ---
 
 # 👥 Contributors
-Manish R
-Chirag B N
-Likhith Gowda H R
-Bharani J S
+
+**Manish R**
+
+**Chirag B N**
+
+**Likhith Gowda H R**
+
+**Bharani J S**
+
+----
