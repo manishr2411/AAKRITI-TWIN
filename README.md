@@ -172,9 +172,7 @@ Both outputs are fused to estimate:
 - Distance
 - Angle
 - 2D Coordinates
-
-This enables intelligent environment understanding beyond traditional single-sensor systems. :contentReference[oaicite:2]{index=2}
-
+  
 ---
 
 # 🌐 Applications
