@@ -4,7 +4,7 @@ import time
 
 # ===== SETTINGS =====
 CAMERA_INDEX = 1
-SAVE_FOLDER = r"C:\Users\Admin\OneDrive\Desktop\Hackathon_Custom_YOLO\raw_images"
+SAVE_FOLDER = "raw_images"
 CAPTURE_INTERVAL = 0.6  # seconds between photos
 TOTAL_IMAGES = 100       # how many images to capture
 # ====================
