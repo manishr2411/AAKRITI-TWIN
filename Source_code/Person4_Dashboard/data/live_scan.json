@@ -1,0 +1,158 @@
+[
+  {
+    "scan_id": 3,
+    "timestamp": 180674,
+    "angle_deg": 0.0,
+    "distance_cm": 57.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 181192,
+    "angle_deg": 15.0,
+    "distance_cm": 58.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 181700,
+    "angle_deg": 30.0,
+    "distance_cm": 16.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 182208,
+    "angle_deg": 45.0,
+    "distance_cm": 15.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 183290,
+    "angle_deg": 75.0,
+    "distance_cm": 39.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 183803,
+    "angle_deg": 90.0,
+    "distance_cm": 37.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 184395,
+    "angle_deg": 105.0,
+    "distance_cm": 73.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 184909,
+    "angle_deg": 120.0,
+    "distance_cm": 30.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 185423,
+    "angle_deg": 135.0,
+    "distance_cm": 29.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 185932,
+    "angle_deg": 150.0,
+    "distance_cm": 22.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 186441,
+    "angle_deg": 165.0,
+    "distance_cm": 24.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 186955,
+    "angle_deg": 180.0,
+    "distance_cm": 31.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 187469,
+    "angle_deg": 180.0,
+    "distance_cm": 31.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 187978,
+    "angle_deg": 165.0,
+    "distance_cm": 24.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 188487,
+    "angle_deg": 150.0,
+    "distance_cm": 22.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 189001,
+    "angle_deg": 135.0,
+    "distance_cm": 29.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 189515,
+    "angle_deg": 120.0,
+    "distance_cm": 31.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 190031,
+    "angle_deg": 105.0,
+    "distance_cm": 45.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 190544,
+    "angle_deg": 90.0,
+    "distance_cm": 38.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 191057,
+    "angle_deg": 75.0,
+    "distance_cm": 38.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 192134,
+    "angle_deg": 45.0,
+    "distance_cm": 15.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 192642,
+    "angle_deg": 30.0,
+    "distance_cm": 19.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 193160,
+    "angle_deg": 15.0,
+    "distance_cm": 58.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 193678,
+    "angle_deg": 0.0,
+    "distance_cm": 56.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 194696,
+    "angle_deg": 0.0,
+    "distance_cm": 56.0
+  },
+  {
+    "scan_id": 3,
+    "timestamp": 195217,
+    "angle_deg": 15.0,
+    "distance_cm": 61.0
+  }
+]

@@ -1,0 +1,7 @@
+person
+chair
+laptop
+wire
+fan
+window
+water_bottle
