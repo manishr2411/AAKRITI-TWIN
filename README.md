@@ -200,6 +200,7 @@ The resulting information is then visualized as a 2D digital twin.
                        ▼
               REAL-TIME DIGITAL
                  REPRESENTATION
+```
 
 ---
 
