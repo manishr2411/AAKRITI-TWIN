@@ -240,7 +240,8 @@ AAKRITI-TWIN/
 │       ├── app.py
 │       ├── object_fusion_collector.py
 │       ├── requirements.txt
-│       └── serial_collector.py
+│       └── serial_collector.py│
+│       └── yolo11n.pt
 │
 ├── Videos/
 │   ├── Hardware_Demo/
