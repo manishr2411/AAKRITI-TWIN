@@ -200,3 +200,49 @@ The resulting information is then visualized as a 2D digital twin.
                        ▼
               REAL-TIME DIGITAL
                  REPRESENTATION
+
+---
+
+## 📁 Repository Structure
+
+```text
+AAKRITI-TWIN/
+│
+├── Images/
+│   ├── Hardware/
+│   ├── Circuit_Diagram/
+│   ├── AI_Training/
+│   ├── Results/
+│   └── Team/
+│
+├── Source_code/
+│   ├── Person1_ESP32/
+│   │   └── aakriti_twin_scanner.ino
+│   │
+│   ├── Person2_Firebase/
+│   │   └── upload_serial_to_firebase.py
+│   │
+│   ├── Person3_AI/
+│   │   ├── auto_capture.py
+│   │   ├── best.pt
+│   │   ├── classes.txt
+│   │   ├── hybrid_detect_cam.py
+│   │   ├── test_custom_cam.py
+│   │   ├── train_custom.py
+│   │   └── yolo11n.pt
+│   │
+│   └── Person4_Dashboard/
+│       ├── data/
+│       ├── pages/
+│       ├── src/
+│       ├── tests/
+│       ├── app.py
+│       ├── object_fusion_collector.py
+│       ├── requirements.txt
+│       └── serial_collector.py
+│
+├── Videos/
+│   ├── Hardware_Demo/
+│   └── System_Demo/
+│
+└── README.md
